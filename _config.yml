@@ -1,0 +1,8 @@
+excerpt_separator: <!--hl-->
+pygments: true
+markdown: kramdown
+url: http://utsargo.github.io/bijoy2unicode/
+title: বিজয় টু ইউনিকোড কনভার্টার
+tagline: "Bijoy to unicode converter"
+description: ""
+paginate: 10
